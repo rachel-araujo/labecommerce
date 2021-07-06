@@ -1,1 +1,3 @@
-Sejam bem vindos ao Labe-commerce, esse repositório contém um esqueleto de app React e um .gitignore.
+LabeCommerce
+
+O projeto quinzenal 6 da Labenu tinha a proposta construir uma loja virtual com React, utilizando o que aprendemos até aqui (componentização, styled-components, manipulação de estado, ciclos de vida, renderização condicional e LocalStorage) e pensar na experiência do usuário.
